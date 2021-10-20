@@ -25,6 +25,8 @@ NB : Dans une autre UE, la matière se poursuivra au second quadrimestre où l'o
 
 Lien vers les exercices : [https://tech.io/playgrounds/55264/exercices-paper/paper](https://tech.io/playgrounds/55264/exercices-paper/paper)
 
+Il n'y a pas d'évaluation prévue à l'issue de ces exercices.
+
 <hr />
 
 ### Exercices sur les variables et les instructions
@@ -39,7 +41,7 @@ Lien vers les exercices : [https://tech.io/playgrounds/55269/les-variables/intro
 
 Lien vers les exercices : [https://tech.io/playgrounds/55382/les-alternatives-et-les-structures/exercice-1-sur-9](https://tech.io/playgrounds/55382/les-alternatives-et-les-structures/exercice-1-sur-9)
 
-**Une évaluation est prévue à l'issue de ces exercices. Les informations pratiques sont données oralement par le professeur de labo.**
+**Une évaluation est prévue à l'issue de ces exercices. Les informations pratiques sont données oralement par le professeur de labo. (Précisons déjà que les structures ne feront pas partie de la matière pour cette évaluation. En effet, certains énoncés utilisent la notion de structure pour faciliter leur apprentissage complet au second quadrimestre.)**
 
 <hr />
 
@@ -63,10 +65,14 @@ Lien vers les exercices : [https://tech.io/playgrounds/55695/les-vecteurs-pointe
 
 Lien vers les exercices : [!!!](!!!)
 
+Il n'y a pas d'évaluation prévue à l'issue de ces exercices. (Pas d'évaluation qui rentre dans l'évaluation continue, mais cette mantière est essentielle à la réussite de l'examen !)
+
 <hr />
 
 ### Exercices sur les chaines de caractères
 
 Lien vers les exercices : [https://tech.io/playgrounds/56102/les-chaines-de-caracteres/introduction](https://tech.io/playgrounds/56102/les-chaines-de-caracteres/introduction)
+
+Il n'y a pas d'évaluation prévue à l'issue de ces exercices. Ces énoncés permettent surtout d'introduire des concepts utiles pour attaquer le deuxième quadrimestre (avec les chaînes de caractères) dans les meilleures conditions.
 
 <hr />
