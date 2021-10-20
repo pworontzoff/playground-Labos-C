@@ -45,7 +45,7 @@ Lien vers les exercices : [https://tech.io/playgrounds/55382/les-alternatives-et
 
 ### Exercices sur les répétitions
 
-Lien vers les exercices : [!!!](!!!)
+Lien vers les exercices : [https://tech.io/playgrounds/55535/les-repetitions/introduction](https://tech.io/playgrounds/55535/les-repetitions/introduction)
 
 **Une évaluation est prévue à l'issue de ces exercices. Les informations pratiques sont données oralement par le professeur de labo.**
 
@@ -53,7 +53,7 @@ Lien vers les exercices : [!!!](!!!)
 
 ### Exercices sur les vecteurs et pointeurs
 
-Lien vers les exercices : [!!!](!!!)
+Lien vers les exercices : [https://tech.io/playgrounds/55695/les-vecteurs-pointeurs/exercice-1-vecteurs](https://tech.io/playgrounds/55695/les-vecteurs-pointeurs/exercice-1-vecteurs)
 
 **Une évaluation est prévue à l'issue de ces exercices. Les informations pratiques sont données oralement par le professeur de labo.**
 
