@@ -1,4 +1,4 @@
-title: HEPL - Labos C - B1 - P Worontzoff
+title: '# HEPL - Bloc 1, Q1 - Labos C - P Worontzoff'
 plan:
 - title: Contexte et planification du travail
   statement: context.md
@@ -16,4 +16,3 @@ plan:
   statement: tableaux.md
 - title: Exercices sur les chaines de caractères
   statement: chaines.md
-  
