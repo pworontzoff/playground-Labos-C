@@ -1,5 +1,7 @@
 # HEPL - Labos C - B1 - P Worontzoff
 
+<hr />
+
 ## Contexte
 
 Ces énoncés constituent l'ensemble du travail à fournir pour le premier quadrimestre. (Il n'y aura pas de dossier ou travaux supplémentaires demandés pour cette UE du premier quadrimestre.)
@@ -14,6 +16,8 @@ Et donc **n'hésitez jamais** à poser une question à votre titulaire de labo&n
 Des évaluations (interrogations) régulières sont prévues et constituent une cote dite d'*évaluation continue* qui intervient à hauteur de 25% de la cote que vous recevrez sur votre bulletin.
 
 NB : Dans une autre UE, la matière se poursuivra au second quadrimestre où l'on va compléter l'apprentissage des outils de base du programmeur (les chaînes de caractères, les fichiers, les structures, les LLU) et intégrer tout ces concepts dans des programmes plus "concrets" et plus long et complexe que ces petits énoncés du premier quadrimestre.
+
+<hr />
 
 ## Plan
 
