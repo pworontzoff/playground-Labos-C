@@ -1,4 +1,19 @@
 title: HEPL - Labos C - B1 - P Worontzoff
 plan:
-- title: C Snippet
-  statement: statement.md
+- title: Contexte de travail
+  statement: context.md
+- title: Exercices d'introduction à la programmation C avec les "Papers"
+  statement: papers.md
+- title: Exercices sur les variables et les instructions
+  statement: variables.md
+- title: Exercices sur les alternatives et les structures
+  statement: alternatives.md
+- title: Exercices sur les répétitions
+  statement: repetitions.md
+- title: Exercices sur les vecteurs et pointeurs
+  statement: alternaitives.md
+- title: Exercices sur les tableaux (à 2 dimensions)
+  statement: tableaux.md
+- title: Exercices sur les chaines de caractères
+  statement: chaines.md
+  
