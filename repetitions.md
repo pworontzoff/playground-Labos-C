@@ -1,5 +1,5 @@
-# HEPL - Labos C - B1 - P Worontzoff
+## Exercices sur les répétitions
 
-## Exercices d'introduction à la programmation C avec les "Papers"
+Lien vers les exercices : [https://tech.io/playgrounds/55535/les-repetitions/introduction](https://tech.io/playgrounds/55535/les-repetitions/introduction)
 
-Lien vers les exercices : [https://tech.io/playgrounds/55264/exercices-paper/paper](https://tech.io/playgrounds/55264/exercices-paper/paper)
+**Une évaluation est prévue à l'issue de ces exercices. Les informations pratiques sont données oralement par le professeur de labo.**
