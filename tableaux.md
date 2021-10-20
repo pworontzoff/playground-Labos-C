@@ -1,4 +1,4 @@
-# HEPL - Labos C - B1 - P Worontzoff
+# HEPL - Labos C du Q1 - B1 - P Worontzoff
 
 ### Exercices sur les tableaux (à 2 dimensions)
 
