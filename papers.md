@@ -1,4 +1,4 @@
-# HEPL - Labos C - B1 - P Worontzoff
+# HEPL - Bloc 1, Q1 - Labos C - P Worontzoff
 
 ## Exercices d'introduction à la programmation C avec les "Papers"
 
