@@ -25,25 +25,25 @@ Lien vers les exercices : [https://tech.io/playgrounds/55264/exercices-paper/pap
 
 Lien vers les exercices : [https://tech.io/playgrounds/55269/les-variables/introduction](https://tech.io/playgrounds/55269/les-variables/introduction)
 
-** Une évaluation est prévue à l'issue de ces exercices. Les informations pratiques sont données oralement par le professeur de labo. **
+**Une évaluation est prévue à l'issue de ces exercices. Les informations pratiques sont données oralement par le professeur de labo.**
 
 ### Exercices sur les alternatives et les structures
 
 Lien vers les exercices : [!!!](!!!)
 
-** Une évaluation est prévue à l'issue de ces exercices. Les informations pratiques sont données oralement par le professeur de labo. **
+**Une évaluation est prévue à l'issue de ces exercices. Les informations pratiques sont données oralement par le professeur de labo.**
 
 ### Exercices sur les répétitions
 
 Lien vers les exercices : [!!!](!!!)
 
-** Une évaluation est prévue à l'issue de ces exercices. Les informations pratiques sont données oralement par le professeur de labo. **
+**Une évaluation est prévue à l'issue de ces exercices. Les informations pratiques sont données oralement par le professeur de labo.**
 
 ### Exercices sur les vecteurs et pointeurs
 
 Lien vers les exercices : [!!!](!!!)
 
-** Une évaluation est prévue à l'issue de ces exercices. Les informations pratiques sont données oralement par le professeur de labo. **
+**Une évaluation est prévue à l'issue de ces exercices. Les informations pratiques sont données oralement par le professeur de labo.**
 
 ### Exercices sur les tableaux (à 2 dimensions)
 
