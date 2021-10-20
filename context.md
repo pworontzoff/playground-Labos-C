@@ -68,3 +68,5 @@ Lien vers les exercices : [!!!](!!!)
 ### Exercices sur les chaines de caractères
 
 Lien vers les exercices : [!!!](!!!)
+
+<hr />
