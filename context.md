@@ -21,11 +21,15 @@ NB : Dans une autre UE, la matière se poursuivra au second quadrimestre où l'o
 
 Lien vers les exercices : [https://tech.io/playgrounds/55264/exercices-paper/paper](https://tech.io/playgrounds/55264/exercices-paper/paper)
 
+<hr />
+
 ### Exercices sur les variables et les instructions
 
 Lien vers les exercices : [https://tech.io/playgrounds/55269/les-variables/introduction](https://tech.io/playgrounds/55269/les-variables/introduction)
 
 **Une évaluation est prévue à l'issue de ces exercices. Les informations pratiques sont données oralement par le professeur de labo.**
+
+<hr />
 
 ### Exercices sur les alternatives et les structures
 
@@ -33,11 +37,15 @@ Lien vers les exercices : [!!!](!!!)
 
 **Une évaluation est prévue à l'issue de ces exercices. Les informations pratiques sont données oralement par le professeur de labo.**
 
+<hr />
+
 ### Exercices sur les répétitions
 
 Lien vers les exercices : [!!!](!!!)
 
 **Une évaluation est prévue à l'issue de ces exercices. Les informations pratiques sont données oralement par le professeur de labo.**
+
+<hr />
 
 ### Exercices sur les vecteurs et pointeurs
 
@@ -45,9 +53,13 @@ Lien vers les exercices : [!!!](!!!)
 
 **Une évaluation est prévue à l'issue de ces exercices. Les informations pratiques sont données oralement par le professeur de labo.**
 
+<hr />
+
 ### Exercices sur les tableaux (à 2 dimensions)
 
 Lien vers les exercices : [!!!](!!!)
+
+<hr />
 
 ### Exercices sur les chaines de caractères
 
