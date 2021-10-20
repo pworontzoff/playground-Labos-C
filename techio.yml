@@ -1,6 +1,6 @@
 title: HEPL - Labos C - B1 - P Worontzoff
 plan:
-- title: Contexte de travail
+- title: Contexte et planification du travail
   statement: context.md
 - title: Exercices d'introduction à la programmation C avec les "Papers"
   statement: papers.md
