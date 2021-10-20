@@ -11,7 +11,7 @@ plan:
 - title: Exercices sur les répétitions
   statement: repetitions.md
 - title: Exercices sur les vecteurs et pointeurs
-  statement: alternaitives.md
+  statement: vecteurs-pointeurs.md
 - title: Exercices sur les tableaux (à 2 dimensions)
   statement: tableaux.md
 - title: Exercices sur les chaines de caractères
