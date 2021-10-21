@@ -1,6 +1,6 @@
 # HEPL - Bloc 1, Q1 - Labos C - P Worontzoff
 
-## Exercices sur les vecteurs et pointeurs
+## 5 - Exercices sur les vecteurs et pointeurs
 
 Lien vers les exercices : [https://tech.io/playgrounds/55695/les-vecteurs-pointeurs/exercice-1-vecteurs](https://tech.io/playgrounds/55695/les-vecteurs-pointeurs/exercice-1-vecteurs)
 
