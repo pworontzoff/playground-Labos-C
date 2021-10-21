@@ -77,4 +77,4 @@ Il n'y a pas d'évaluation prévue à l'issue de ces exercices. Ces énoncés pe
 
 <hr />
 
-Note : La paternité des exercices revient à Cédric Thiernesse, Patrick Quettier et Pierre Worontzoff.
+Note : La paternité des exercices revient à Cédric Thiernesse, Patrick Quettier, Anne Léonard et Pierre Worontzoff.
