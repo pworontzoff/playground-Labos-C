@@ -21,7 +21,7 @@ NB : Dans une autre UE, la matière se poursuivra au second quadrimestre où l'o
 
 ## Plan
 
-### Exercices d'introduction à la programmation C avec les "Papers"
+### 1 - Exercices d'introduction à la programmation C avec les "Papers"
 
 Lien vers les exercices : [https://tech.io/playgrounds/55264/exercices-paper/paper](https://tech.io/playgrounds/55264/exercices-paper/paper)
 
@@ -29,7 +29,7 @@ Il n'y a pas d'évaluation prévue à l'issue de ces exercices.
 
 <hr />
 
-### Exercices sur les variables et les instructions
+### 2 - Exercices sur les variables et les instructions
 
 Lien vers les exercices : [https://tech.io/playgrounds/55269/les-variables/introduction](https://tech.io/playgrounds/55269/les-variables/introduction)
 
@@ -37,7 +37,7 @@ Lien vers les exercices : [https://tech.io/playgrounds/55269/les-variables/intro
 
 <hr />
 
-### Exercices sur les alternatives et les structures
+### 3 - Exercices sur les alternatives et les structures
 
 Lien vers les exercices : [https://tech.io/playgrounds/55382/les-alternatives-et-les-structures/exercice-1-sur-9](https://tech.io/playgrounds/55382/les-alternatives-et-les-structures/exercice-1-sur-9)
 
@@ -45,7 +45,7 @@ Lien vers les exercices : [https://tech.io/playgrounds/55382/les-alternatives-et
 
 <hr />
 
-### Exercices sur les répétitions
+### 4 - Exercices sur les répétitions
 
 Lien vers les exercices : [https://tech.io/playgrounds/55535/les-repetitions/introduction](https://tech.io/playgrounds/55535/les-repetitions/introduction)
 
@@ -53,7 +53,7 @@ Lien vers les exercices : [https://tech.io/playgrounds/55535/les-repetitions/int
 
 <hr />
 
-### Exercices sur les vecteurs et pointeurs
+### 5 - Exercices sur les vecteurs et pointeurs
 
 Lien vers les exercices : [https://tech.io/playgrounds/55695/les-vecteurs-pointeurs/exercice-1-vecteurs](https://tech.io/playgrounds/55695/les-vecteurs-pointeurs/exercice-1-vecteurs)
 
@@ -61,7 +61,7 @@ Lien vers les exercices : [https://tech.io/playgrounds/55695/les-vecteurs-pointe
 
 <hr />
 
-### Exercices sur les tableaux (à 2 dimensions)
+### 6 - Exercices sur les tableaux (à 2 dimensions)
 
 Lien vers les exercices : [!!!](!!!)
 
@@ -69,7 +69,7 @@ Il n'y a pas d'évaluation prévue à l'issue de ces exercices. (Pas d'évaluati
 
 <hr />
 
-### Exercices sur les chaines de caractères
+### 7 - Exercices sur les chaines de caractères
 
 Lien vers les exercices : [https://tech.io/playgrounds/56102/les-chaines-de-caracteres/introduction](https://tech.io/playgrounds/56102/les-chaines-de-caracteres/introduction)
 
