@@ -1,6 +1,6 @@
 # HEPL - Labos C - B1 - P Worontzoff
 
-## Exercices sur les chaines de caractères
+## 7 - Exercices sur les chaines de caractères
 
 Lien vers les exercices : [https://tech.io/playgrounds/56102/les-chaines-de-caracteres/introduction](https://tech.io/playgrounds/56102/les-chaines-de-caracteres/introduction)
 
