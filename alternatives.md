@@ -1,6 +1,6 @@
 # HEPL - Bloc 1, Q1 - Labos C - P Worontzoff
 
-## Exercices sur les alternatives et les structures
+## 3 - Exercices sur les alternatives et les structures
 
 Lien vers les exercices : [https://tech.io/playgrounds/55382/les-alternatives-et-les-structures/exercice-1-sur-9](https://tech.io/playgrounds/55382/les-alternatives-et-les-structures/exercice-1-sur-9)
 
