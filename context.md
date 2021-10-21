@@ -76,3 +76,5 @@ Lien vers les exercices : [https://tech.io/playgrounds/56102/les-chaines-de-cara
 Il n'y a pas d'évaluation prévue à l'issue de ces exercices. Ces énoncés permettent surtout d'introduire des concepts utiles pour attaquer le deuxième quadrimestre (avec les chaînes de caractères) dans les meilleures conditions.
 
 <hr />
+
+Note : La paternité des exercices revient à Cédric Thiernesse, Patrick Quettier et Pierre Worontzoff.
